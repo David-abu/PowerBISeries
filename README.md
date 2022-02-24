@@ -4,7 +4,10 @@ The series are designed for beginners & intermediate-level regular Power BI user
 
 1. Introduction into Data Analysis using Power BI
 
-https://www.youtube.com/watch?v=85SmJugDOGw&t            
+https://www.youtube.com/watch?v=85SmJugDOGw   
 
-[![Introduction into Data Analysis using Power BI](https://img.youtube.com/vi/85SmJugDOGw&t/0.jpg)](https://www.youtube.com/watch?v=85SmJugDOGw&t)
-<iframe width="560" height="315" src="https://www.youtube.com/embed/85SmJugDOGw" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/YOUTUBE_VIDEO_ID_HERE/0.jpg)](https://www.youtube.com/watch?v=YOUTUBE_VIDEO_ID_HERE)
+
+[![Introduction into Data Analysis using Power BI](https://img.youtube.com/vi/85SmJugDOGw&t/0.jpg)](https://www.youtube.com/watch?v=85SmJugDOGw)
+
+
