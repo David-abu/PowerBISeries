@@ -8,4 +8,22 @@ https://www.youtube.com/watch?v=85SmJugDOGw
 
 [![Introduction into Data Analysis using Power BI](https://img.youtube.com/vi/85SmJugDOGw/0.jpg)](https://www.youtube.com/watch?v=85SmJugDOGw "Introduction into Data Analysis using Power BI")
 
+2. Connecting to Data Sources in Power BI
+
+https://www.youtube.com/watch?v=rTgXw5JNnIE
+
+[![Connecting to Data Sources in Power BI](https://img.youtube.com/vi/rTgXw5JNnIE/0.jpg)](https://www.youtube.com/watch?v=rTgXw5JNnIE "Connecting to Data Sources in Power BI")
+
+3. Transforming Data in Power Query
+
+https://www.youtube.com/watch?v=5Op5OfYMVVE
+
+[![Transforming Data in Power Query](https://img.youtube.com/vi/5Op5OfYMVVE/0.jpg)](https://www.youtube.com/watch?v=5Op5OfYMVVE "Transforming Data in Power Query")
+
+4. Data Modelling in Power BI for beginners
+
+https://www.youtube.com/watch?v=Lhg90wyBRAQ
+
+[![Data Modelling in Power BI for beginners](https://img.youtube.com/vi/Lhg90wyBRAQ/0.jpg)](https://www.youtube.com/watch?v=Lhg90wyBRAQ "Data Modelling in Power BI for beginners")
+
 
