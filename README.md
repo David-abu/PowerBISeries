@@ -26,4 +26,10 @@ https://www.youtube.com/watch?v=Lhg90wyBRAQ
 
 [![Data Modelling in Power BI for beginners](https://img.youtube.com/vi/Lhg90wyBRAQ/0.jpg)](https://www.youtube.com/watch?v=Lhg90wyBRAQ "Data Modelling in Power BI for beginners")
 
+5. Introduction to DAX in Power BI
+
+https://www.youtube.com/watch?v=ZM_g0rmYsEc
+
+[![Introduction to DAX in Power BI](https://img.youtube.com/vi/ZM_g0rmYsEc/0.jpg)](https://www.youtube.com/watch?v=ZM_g0rmYsEc "Introduction to DAX in Power BI")
+
 
