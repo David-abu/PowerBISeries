@@ -32,4 +32,10 @@ https://www.youtube.com/watch?v=ZM_g0rmYsEc
 
 [![Introduction to DAX in Power BI](https://img.youtube.com/vi/ZM_g0rmYsEc/0.jpg)](https://www.youtube.com/watch?v=ZM_g0rmYsEc "Introduction to DAX in Power BI")
 
+6. Reporting and Analytics with Power BI
+
+https://www.youtube.com/watch?v=UsZaZIT3CMw
+
+[![Reporting and Analytics with Power BI](https://img.youtube.com/vi/UsZaZIT3CMw/0.jpg)](https://www.youtube.com/watch?v=UsZaZIT3CMw "Reporting and Analytics with Power BI")
+
 
