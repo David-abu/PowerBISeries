@@ -38,11 +38,11 @@ https://www.youtube.com/watch?v=UsZaZIT3CMw
 
 [![Reporting and Analytics with Power BI](https://img.youtube.com/vi/UsZaZIT3CMw/0.jpg)](https://www.youtube.com/watch?v=UsZaZIT3CMw "Reporting and Analytics with Power BI")
 
-7. Collaboration with teams member on Power BI Service
+7. Collaboration with teams members on Power BI Service
 
 https://www.youtube.com/watch?v=iNw0qOgFIQ4
 
-[![Collaboration with teams member on Power BI Service](https://img.youtube.com/vi/v=iNw0qOgFIQ4/0.jpg)](https://www.youtube.com/watch?v=iNw0qOgFIQ4 "Collaboration with teams member on Power BI Service)
+[![Collaboration with teams members on Power BI Service](https://img.youtube.com/vi/iNw0qOgFIQ4/0.jpg)](https://www.youtube.com/watch?v=iNw0qOgFIQ4 "Collaboration with teams members on Power BI Service)
 
 
 
