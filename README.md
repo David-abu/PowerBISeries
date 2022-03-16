@@ -42,7 +42,7 @@ https://www.youtube.com/watch?v=UsZaZIT3CMw
 
 https://www.youtube.com/watch?v=iNw0qOgFIQ4
 
-[![Collaboration with teams members on Power BI Service](https://img.youtube.com/vi/iNw0qOgFIQ4/0.jpg)](https://www.youtube.com/watch?v=iNw0qOgFIQ4 "Collaboration with teams members on Power BI Service)
+[![Collaboration with teams members on Power BI Service](https://img.youtube.com/vi/iNw0qOgFIQ4/0.jpg)](https://www.youtube.com/watch?v=iNw0qOgFIQ4 "Collaboration with teams members on Power BI Service")
 
 
 
