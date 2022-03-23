@@ -32,4 +32,23 @@ https://www.youtube.com/watch?v=ZM_g0rmYsEc
 
 [![Introduction to DAX in Power BI](https://img.youtube.com/vi/ZM_g0rmYsEc/0.jpg)](https://www.youtube.com/watch?v=ZM_g0rmYsEc "Introduction to DAX in Power BI")
 
+6. Reporting and Analytics with Power BI
+
+https://www.youtube.com/watch?v=UsZaZIT3CMw
+
+[![Reporting and Analytics with Power BI](https://img.youtube.com/vi/UsZaZIT3CMw/0.jpg)](https://www.youtube.com/watch?v=UsZaZIT3CMw "Reporting and Analytics with Power BI")
+
+7. Collaboration with teams members on Power BI Service
+
+https://www.youtube.com/watch?v=iNw0qOgFIQ4
+
+[![Collaboration with teams members on Power BI Service](https://img.youtube.com/vi/iNw0qOgFIQ4/0.jpg)](https://www.youtube.com/watch?v=iNw0qOgFIQ4 "Collaboration with teams members on Power BI Service")
+
+8. Using AI visuals for advance Analytics
+
+https://www.youtube.com/watch?v=a7Hhe_zCPBc
+
+[![Using AI visuals for advance Analytics](https://img.youtube.com/vi/a7Hhe_zCPBc/0.jpg)](https://www.youtube.com/watch?v=a7Hhe_zCPBc "Using AI visuals for advance Analytics")
+
+
 
