@@ -2,6 +2,17 @@
 Power BI is a collection of software services, apps, and connectors that work together to turn your unrelated sources of data into coherent, visually immersive, and interactive insights. Your data may be an Excel spreadsheet, or a collection of cloud-based and on-premises hybrid data warehouses. Power BI lets you easily connect to your data sources, visualize and discover what's important, and share that with anyone or everyone you want. 
 The series are designed for beginners & intermediate-level regular Power BI users to further develop their skills. 
 
+Microsoft Leaarn Modules
+
+1.  Introduction into Data Analysis using Power BI https://aka.ms/WASDataAnalysis
+2.	Connecting to Data Sources in Power BI https://aka.ms/WASGetData
+3.	Transforming Data in Power Query https://aka.ms/WASPowerQuery 
+4.	Data Modelling in Power BI for beginners https://aka.ms/WASDataModel 
+5.	Introduction to DAX in Power BI https://aka.ms/WASDAX
+6.	Reporting and Analytics in Power BI https://aka.ms/WASVisualinPowerBI
+7.  Collaboration with team members on Power BI service https://aka.ms/WASPowerBIService 
+8.  Using AI visuals for advance Analytics https://aka.ms/WASAIVisuals
+
 1. Introduction into Data Analysis using Power BI
 
 https://www.youtube.com/watch?v=85SmJugDOGw
