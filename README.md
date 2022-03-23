@@ -48,7 +48,7 @@ https://www.youtube.com/watch?v=iNw0qOgFIQ4
 
 https://www.youtube.com/watch?v=a7Hhe_zCPBc
 
-[![Using AI visuals for advance Analytics](https://img.youtube.com/vi/a7Hhe_zCPBc/0.jpg)](https://www.youtube.com/watch?v=a7Hhe_zCPBc "Using AI visuals for advance Analytics)
+[![Using AI visuals for advance Analytics](https://img.youtube.com/vi/a7Hhe_zCPBc/0.jpg)](https://www.youtube.com/watch?v=a7Hhe_zCPBc "Using AI visuals for advance Analytics")
 
 
 
